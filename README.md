@@ -17,7 +17,7 @@ The data highlights that rural cities on average have fewer total rides, drivers
 
 ### Suburban
 
-![fig1](Fig1.png)
+![fig1](https://github.com/retroxsky06/PyBer_Analysis/blob/main/analysis/Fig2.png)
 
 ### Urban
 
