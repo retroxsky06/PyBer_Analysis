@@ -26,7 +26,7 @@ Python 3.8, Anaconda, Jupyter Notebook
 ## Results
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
-![Fare Summary](analysis/PyBer_Fare_Summary.png)
+![Fare Summary](PyBer_fare_summary.png)
 
 
 ## Summary
